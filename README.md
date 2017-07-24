@@ -14,4 +14,4 @@ list
 
 ```
 - TODO:
-1. Add a corresponding C++ project to see `gdb` i action
+1. Add a corresponding C++ project to see `gdb` in action

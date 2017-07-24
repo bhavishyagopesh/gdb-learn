@@ -1,4 +1,4 @@
-##Efforts to use/learn gdb
+## Efforts to use/learn gdb
 
 - Basic syntax:
 ```bash
